@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba3b6203-1542-4717-a9ac-a8658e13209d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGa7G0st3MVVQV4TmCGUyWkWyQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/example/querybysql/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.querybysql" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\13058\Desktop\浙江农信\java方向\springBoot\springBootQueryBySQLByJPA\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.QuerybysqlApplicationTests.testList">
+    <configuration name="QuerybysqlApplicationTests.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="querybysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.querybysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.querybysql" />
+      <option name="MAIN_CLASS_NAME" value="com.example.querybysql.QuerybysqlApplicationTests" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuerybysqlApplicationTests.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="querybysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.querybysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.querybysql" />
+      <option name="MAIN_CLASS_NAME" value="com.example.querybysql.QuerybysqlApplicationTests" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuerybysqlApplicationTests.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="querybysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.querybysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.querybysql" />
+      <option name="MAIN_CLASS_NAME" value="com.example.querybysql.QuerybysqlApplicationTests" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuerybysqlApplicationTests.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="querybysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.querybysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.querybysql" />
+      <option name="MAIN_CLASS_NAME" value="com.example.querybysql.QuerybysqlApplicationTests" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuerybysqlApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="querybysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.querybysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.querybysql.QuerybysqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuerybysqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springBootQueryBySQL" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.querybysql.QuerybysqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QuerybysqlApplicationTests.testList" />
+        <item itemvalue="JUnit.QuerybysqlApplicationTests.testAdd" />
+        <item itemvalue="JUnit.QuerybysqlApplicationTests.testDelete" />
+        <item itemvalue="Spring Boot.QuerybysqlApplication (1)" />
+        <item itemvalue="JUnit.QuerybysqlApplicationTests.testInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba3b6203-1542-4717-a9ac-a8658e13209d" name="Default Changelist" comment="" />
+      <created>1603432712858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603432712858</updated>
+      <workItem from="1603432716925" duration="456000" />
+      <workItem from="1603433231461" duration="6567000" />
+      <workItem from="1603441590507" duration="1974000" />
+      <workItem from="1603673703528" duration="1780000" />
+      <workItem from="1603675516488" duration="9721000" />
+      <workItem from="1603795472555" duration="16000" />
+      <workItem from="1603796195870" duration="737000" />
+      <workItem from="1603847020216" duration="9211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1603847049016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1603847049016" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603868428461">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603868428461" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1603868587470">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603868587470" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1603868587470">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603868587470" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1603868587470">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603868587470" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1603868587470">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603868587470" />
+    <state width="1237" height="2" key="GridCell.Tab.1.bottom" timestamp="1603868587471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603868587471" />
+    <state width="1237" height="2" key="GridCell.Tab.1.center" timestamp="1603868587471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1603868587471" />
+    <state width="1237" height="2" key="GridCell.Tab.1.left" timestamp="1603868587471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1603868587471" />
+    <state width="1237" height="2" key="GridCell.Tab.1.right" timestamp="1603868587471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1603868587471" />
+    <state width="1237" height="47" key="GridCell.Tab.2.bottom" timestamp="1603852112814">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="47" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603852112814" />
+    <state width="1237" height="47" key="GridCell.Tab.2.center" timestamp="1603852112813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="47" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1603852112813" />
+    <state width="1237" height="47" key="GridCell.Tab.2.left" timestamp="1603852112813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="47" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1603852112813" />
+    <state width="1237" height="47" key="GridCell.Tab.2.right" timestamp="1603852112814">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="47" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1603852112814" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1603852229657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603852229657" />
+  </component>
+</project>
